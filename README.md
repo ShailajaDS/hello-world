@@ -1,2 +1,4 @@
 # hello-world
-I am just starting with GitHub and its very exciting!
+
+It looks like coding might become my new hobby!!
+You can change the world with code!
