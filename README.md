@@ -1,2 +1,2 @@
 # hello-world
-Just for me to get started with GitHub
+I am just starting with GitHub and its very exciting!
